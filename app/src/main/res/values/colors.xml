@@ -7,6 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Greens">#9BAC87</color>
+    <color name="IDEK">#8B8F85</color>
 
     <color name="card_foreground">@color/white</color>
 </resources>
