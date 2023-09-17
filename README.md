@@ -7,9 +7,9 @@ Time spent: **4** hours spent in total
 
 ## We are learning how to clone a git repository, create an emulator, run a project using an emulator, make changes to an application, and publish changes to GitHub repository.
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+Empanada is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😄🥳😳**
 
 ## Application Features
 
@@ -17,26 +17,27 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Change profile name to your name
-- [ ] Change profile bio text to a personal bio about yourself
-- [ ] Modify hobby section to include your top three (3) hobbies
+- [x] Change profile name to your name
+- [x] Change profile bio text to a personal bio about yourself
+- [x] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
-- [ ] Re-brand the app by modifying the UI
-- [ ] Modify the profile image by uploading a new image drawable
+- [x] Re-brand the app by modifying the UI
+- [x] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] Created new color ID's for more color options.
+
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/8gBnCgD.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -45,11 +46,10 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-
+Getting a proper introduction to Android Studio and its functions. This project was a lot of fun, and I really enjoyed applying my knowledge to an app of my own creation!
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2023 Kristen Waterford
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
